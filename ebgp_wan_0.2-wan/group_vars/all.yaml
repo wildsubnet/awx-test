@@ -1,5 +1,6 @@
 ---
 OS_dir: /var/tmp/
+tmp_dir: /var/tmp/
 OS_package:
 OS_version: 20.1R1.11
 autonomous_system: 65200
