@@ -1,14 +1,14 @@
 ---
 core_interfaces:
-- desc: '*** to dc2-spine1 ***'
+- desc: '*** to dc2-spine1 booyah ***'
   int: ge-0/0/1
   ip: 10.32.12.2
   mask: 30
-- desc: '*** to dc2-spine2 ***'
+- desc: '*** to dc2-spine2 booyah ***'
   int: ge-0/0/2
   ip: 10.32.2.2
   mask: 30
-- desc: '*** to wan-pe1 ***'
+- desc: '*** to wan-pe1 booyah ***'
   int: ge-0/0/0
   ip: 10.32.1.2
   mask: 30

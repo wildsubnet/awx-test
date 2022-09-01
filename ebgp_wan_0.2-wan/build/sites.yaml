@@ -12,7 +12,7 @@
 #
 # ********************************************************
 - import_playbook: ../make_clean.yaml
-- import_playbook: ../make_etc_hosts.yaml
+#- import_playbook: ../make_etc_hosts.yaml
 
 - hosts: routers
   pre_tasks:
